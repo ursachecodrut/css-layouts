@@ -8,7 +8,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(https://images.unsplash.com/photo-1544306094-e2dcf9479da3) no-repeat;
+    background: rgb(2,0,36);
+    background: linear-gradient(157deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
     background-size: cover;
     /* background-color: ; */
 }
@@ -64,3 +65,12 @@
     display: flex;
     justify-content: end;
 }
+
+/* .container2 {
+    padding: 30px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, .15); 
+    backdrop-filter: blur(10px);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+} */
