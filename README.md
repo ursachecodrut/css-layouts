@@ -21,12 +21,12 @@ Even though grid and flexbox become very easy to use once mastered, they might s
 
  1. Read and exercise on the guides provided
  2. Replicate one of the following:
-    - Card showcase
-    ![tema1](./img/tema1.png)
+    - Card showcase  
+    ![tema1](./img/tema1.png)  
     [ref link](https://themes.getbootstrap.com/preview/?theme_id=88616)
 
-    - Product showcase
-    ![tema2](./img/tema2.png)
+    - Product showcase  
+    ![tema2](./img/tema2.png)  
     [ref link](https://themes.getbootstrap.com/preview/?theme_id=5348) - Pages -> Shop -> Products
 
     - Navbar
@@ -34,6 +34,6 @@ Even though grid and flexbox become very easy to use once mastered, they might s
     [ref link](https://appstack.bootlab.io/dashboard-analytics.html)  
     Try to replicate as much of the functionality as possible
 
-    - Analytics
-    ![tema4](./img/tema4.png)
+    - Analytics  
+    ![tema4](./img/tema4.png)  
     [ref link](https://themes.getbootstrap.com/preview/?theme_id=93682)
